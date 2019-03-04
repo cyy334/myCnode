@@ -1,0 +1,40 @@
+.wrap .ant-card{
+    border-radius: 4px;
+}
+.wrap .crumbs{
+    color: #999;
+}
+.wrap .crumbs a{
+    color: #80bd01;
+}
+.wrap .markdown-text h3{
+    font-size: 30px;
+    border-bottom: 1px solid #eee;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.wrap .markdown-text ul li{
+    line-height: 25px;
+}
+.wrap .markdown-text h4{
+    font-size: 18px;
+    font-weight: bold;
+}
+.wrap .markdown-text h3:first-child{
+    margin-top: 0;
+}
+.wrap .markdown-text code{
+    background-color: #fcfafa;
+}
+.wrap .markdown-text .prettyprint {
+    background: #f7f7f7;
+}
+.wrap .markdown-text .prettyprint .str{
+    color: #080;
+}
+.wrap .markdown-text .prettyprint .kwd{
+    color: #008;
+}
+.wrap .markdown-text .prettyprint .pln{
+    color: #000;
+}

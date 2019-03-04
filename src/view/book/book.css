@@ -1,0 +1,21 @@
+.wrap .ant-card{
+    border-radius: 4px;
+}
+.wrap .crumbs{
+    color: #999;;
+}
+.wrap .crumbs a{
+    color: #80bd01;
+}
+.wrap .markdown-text h2{
+    font-size: 30px;
+    border-bottom: 1px solid #eee;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.wrap .markdown-text h2:first-child{
+    margin-top: 0;
+}
+.wrap .markdown-text p{
+    line-height: 30px;
+}

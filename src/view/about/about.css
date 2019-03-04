@@ -1,0 +1,13 @@
+.wrap .ant-card{
+    border-radius: 4px;
+}
+.wrap .crumbs a{
+    color: #80bd01;
+}
+.wrap .topic_content h3{
+    font-size: 25px;
+}
+.wrap .topic_content img{
+    width: 250px;
+    height: 60px;
+}

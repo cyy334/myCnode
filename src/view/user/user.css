@@ -1,0 +1,64 @@
+.wrap .user .loginname{
+    margin-left: 10px;
+}
+.wrap .user-info .score{
+    margin-top: 10px;
+    color: #000;
+}
+.wrap .user-info .git-address{
+    margin-top: 5px;
+}
+.wrap .user-info .git-address a{
+    color: #888;
+}
+.wrap .user-info .git-address::before{
+    margin-right: 10px;
+    font-size: 18px;
+    color: #888;
+}
+.wrap .user-info .regist-time{
+    font-size: 15px;
+    color:#ababab;
+    margin-top: 10px;
+}
+.wrap .reply_count {
+    margin-left: 15px;
+}
+.wrap .reply_count .count_replies{
+    color: #9e78c0;
+    font-size: 14px;
+}
+.wrap .reply_count .count_seperator{
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.65);
+}
+.wrap .reply_count .count_click{
+    font-size: 10px;
+}
+.wrap  .topic_title{    
+    margin-left: 20px;
+}
+.wrap .ant-list-item-content{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.wrap time{
+    position: absolute;
+    right: 0;
+}
+.wrap .user_list{
+    margin-top: 15px;
+}
+@media all and (max-width: 767px){
+    .wrap .topic_title{
+        max-width: 220px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .wrap time{
+        font-size: 10px;
+        display: none;
+    }
+}
