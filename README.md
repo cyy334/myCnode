@@ -62,7 +62,7 @@
 		- Card 组件的使用
 		- dangerouslySetInnerHTML 方法		
 	- User 用户视图
-	  API 接口视力
+	- API 接口视图
 	- Book 教程视图 和 About 关于视图
 
 ## 数据处理
