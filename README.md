@@ -57,16 +57,17 @@
 	- Index 首页视图
 		- 相关子视图及路由配置（全部、精华、问答、分享、招聘、测试）
 		- param 参数
-		- antd List组件、Pagination组件、Tag组件 使用讲解
+		- antd List组件、Pagination组件、Tag组件的使用
 	- Details 文章详情视图
-		- Card 组件 使用讲解
+		- Card 组件的使用
 		- dangerouslySetInnerHTML 方法		
-	- User 用户视图  
+	- User 用户视图
+	  API 接口视力
 	- Book 教程视图 和 About 关于视图
 
 ## 数据处理
 	- redux的异步处理 
-	- 中间件讲解
+	- 中间件的使用
 	- redux-thunk使用
 	- 相关 reducer 处理
 		- list.reducers
